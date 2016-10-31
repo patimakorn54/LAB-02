@@ -90,7 +90,7 @@
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
 
-จากผลการทดลอง
+จากผลการทดลอง โปรแกรมจะทำรูปวงรี
 
 
 ![](https://github.com/patimakorn54/LAB-02/blob/master/imgs/Capture2.JPG?raw=true)
